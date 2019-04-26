@@ -1,6 +1,6 @@
 # HWID_CHNGER
 This is a SIMPLE HWID CHANGER.
-> Use? can be used to extend program trial periods, or get ubanned from f2p games.
+> purpose? can be used to extend program trial periods, or get ubanned from f2p games lol.
 
 
 Randomly Generate HWID
